@@ -1,0 +1,6 @@
+name = "robots"
+compatibility_date = "2025-12-04"
+
+# Pour servir des assets si tu en as (comme ton robots.txt ou sitemap)
+[assets]
+directory = "./dist"
